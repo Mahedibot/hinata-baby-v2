@@ -1,1 +1,92 @@
-add ur c3c cookie here
+[
+	{
+		"key": "datr",
+		"value": "kyB6aYH5xLK7sRneJ5GEDtzN",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	},
+	{
+		"key": "sb",
+		"value": "kyB6aRXGGbqZxBQVGRfJxyrN",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61586845247891",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	},
+	{
+		"key": "xs",
+		"value": "48%3AvA1R23vUWHYKIw%3A2%3A1769611540%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	},
+	{
+		"key": "fr",
+		"value": "0tDAUlX3n9HsSNT8a.AWehszEPCOQ0H8anrrxGOLdzZF7OMWjCUfnS1eEB6PukoFt2rao.BpeiCT..AAA.0.0.BpeiEW.AWc2I9w2SHQbbel1KIrjPuZ-pac",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_US",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	},
+	{
+		"key": "pas",
+		"value": "61586845247891%3Aak3XiBWpqE",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3067%3Btimestamp%3A1769611542",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101715944%3BT%3A29493525",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B837x421x2.5687501430511475",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-28T14:56:15.973Z",
+		"lastAccessed": "2026-01-28T14:56:15.973Z"
+	}
+]
